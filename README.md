@@ -8,7 +8,7 @@ Developer portfolio project using React
   <p align="center">
     Project appearance and start page
     <br />
-    <a href="https://marknik139.github.io/fortnite-shop/"><strong>View demo»</strong></a>
+    <a href="https://marknik139.github.io/fortnite-shop/" target="_blank"><strong>View demo»</strong></a>
     <br />
     <br />
   </p>
