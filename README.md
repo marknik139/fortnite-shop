@@ -40,7 +40,7 @@ Developer portfolio project using React
 
 ## About The Project
 
-This is a test project of a store with products and a shopping cart.
+This is a test frontend project of a store with products and a shopping cart.
 
 
 
