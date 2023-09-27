@@ -25,9 +25,9 @@ function Shop() {
         })
         .then((resp) => resp.json())
         .then((data) => {
-            setItems(data.featured);
+            setItems(data.specialFeatured);
         })
-    }, []);
+    }, [setItems]);
 
     return (
         <main className="container content">
